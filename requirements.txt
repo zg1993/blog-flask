@@ -26,4 +26,4 @@ python-editor==1.0.3
 six==1.10.0
 Flask-SSLify==0.1.5
 gunicorn==19.7.1
-psycopg==2.5.1
+psycopg2==2.5.1
